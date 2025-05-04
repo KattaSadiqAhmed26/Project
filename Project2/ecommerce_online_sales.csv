@@ -1,0 +1,1001 @@
+Return_ID,Order_ID,Customer_ID,Product_Name,Category,Geography,Marketing_Channel,Return_Reason
+R0001,O31225,C5857,Basketball,Sports,Europe,Referral,Size or fit issue
+R0002,O70032,C8276,Tablet,Electronics,South America,Email,Unauthorized purchase
+R0003,O72949,C5142,T-shirt,Apparel,South America,Email,Size or fit issue
+R0004,O34578,C4530,Jeans,Apparel,South America,Social Media,Wrong item sent
+R0005,O71256,C5393,Basketball,Sports,Asia,Email,Found better price elsewhere
+R0006,O11199,C5531,Blender,Home & Kitchen,North America,Organic Search,Size or fit issue
+R0007,O77718,C9338,Biography,Books,Asia,Paid Ads,Item defective or damaged
+R0008,O11650,C8317,Jacket,Apparel,North America,Organic Search,Wrong item sent
+R0009,O36207,C9019,Basketball,Sports,Europe,Email,Item arrived late
+R0010,O77767,C9633,Toaster,Home & Kitchen,Asia,Social Media,Item arrived late
+R0011,O21035,C4102,Science Textbook,Books,South America,Referral,Product did not match description
+R0012,O98642,C2621,Blender,Home & Kitchen,North America,Organic Search,Item defective or damaged
+R0013,O44842,C4461,Eyeliner,Beauty,Europe,Organic Search,Changed mind
+R0014,O22812,C9500,Running Shoes,Sports,Australia,Email,Unauthorized purchase
+R0015,O18002,C2468,Biography,Books,Europe,Organic Search,Product did not match description
+R0016,O56821,C8241,Toaster,Home & Kitchen,Australia,Organic Search,Changed mind
+R0017,O80913,C2026,Cookbook,Books,Asia,Organic Search,Wrong item sent
+R0018,O87879,C5743,Yoga Mat,Sports,Australia,Paid Ads,Found better price elsewhere
+R0019,O99637,C6480,Foundation,Beauty,Asia,Referral,Unauthorized purchase
+R0020,O63230,C6748,Foundation,Beauty,North America,Referral,Product no longer needed
+R0021,O81116,C1676,Mystery Novel,Books,South America,Social Media,Product no longer needed
+R0022,O68465,C8050,Perfume,Beauty,Asia,Email,Product no longer needed
+R0023,O35941,C3084,Microwave,Home & Kitchen,Europe,Paid Ads,Found better price elsewhere
+R0024,O46415,C6792,Headphones,Electronics,Australia,Organic Search,Found better price elsewhere
+R0025,O74820,C8306,Tablet,Electronics,Europe,Email,Size or fit issue
+R0026,O41587,C2750,Cookbook,Books,Australia,Organic Search,Product did not match description
+R0027,O87608,C7539,Biography,Books,Australia,Social Media,Item defective or damaged
+R0028,O55462,C5731,Laptop,Electronics,South America,Referral,Item defective or damaged
+R0029,O31606,C5051,Jeans,Apparel,Australia,Social Media,Unauthorized purchase
+R0030,O91375,C6850,Smartphone,Electronics,Europe,Referral,Product did not match description
+R0031,O47489,C7055,Blender,Home & Kitchen,Asia,Organic Search,Unauthorized purchase
+R0032,O17033,C8937,Basketball,Sports,Australia,Email,Found better price elsewhere
+R0033,O80267,C3430,Running Shoes,Sports,Australia,Social Media,Found better price elsewhere
+R0034,O96546,C3901,Tennis Racket,Sports,South America,Paid Ads,Wrong item sent
+R0035,O74588,C9529,Fantasy Fiction,Books,Europe,Social Media,Product did not match description
+R0036,O51607,C2756,Microwave,Home & Kitchen,Europe,Referral,Item arrived late
+R0037,O65045,C9888,Face Cream,Beauty,North America,Referral,Size or fit issue
+R0038,O16438,C5619,Fantasy Fiction,Books,North America,Referral,Unauthorized purchase
+R0039,O66332,C8263,Vacuum Cleaner,Home & Kitchen,Europe,Social Media,Item defective or damaged
+R0040,O86440,C3765,Yoga Mat,Sports,North America,Email,Unauthorized purchase
+R0041,O61658,C1550,Science Textbook,Books,North America,Organic Search,Wrong item sent
+R0042,O28270,C2479,T-shirt,Apparel,South America,Paid Ads,Size or fit issue
+R0043,O13446,C2228,Fantasy Fiction,Books,Europe,Referral,Item arrived late
+R0044,O64864,C1675,Lipstick,Beauty,North America,Social Media,Wrong item sent
+R0045,O11497,C6338,Eyeliner,Beauty,Asia,Referral,Poor product quality
+R0046,O17922,C4702,Vacuum Cleaner,Home & Kitchen,Asia,Referral,Item defective or damaged
+R0047,O94595,C9211,Yoga Mat,Sports,Asia,Organic Search,Changed mind
+R0048,O12643,C1128,Biography,Books,Australia,Social Media,Product no longer needed
+R0049,O30621,C5440,Cookbook,Books,Asia,Referral,Poor product quality
+R0050,O90667,C9635,Yoga Mat,Sports,South America,Organic Search,Wrong item sent
+R0051,O92089,C6816,Science Textbook,Books,North America,Email,Wrong item sent
+R0052,O60373,C4215,Running Shoes,Sports,Australia,Paid Ads,Item defective or damaged
+R0053,O32440,C4849,Eyeliner,Beauty,North America,Social Media,Found better price elsewhere
+R0054,O31549,C1786,Jeans,Apparel,North America,Paid Ads,Size or fit issue
+R0055,O37209,C7858,Smartphone,Electronics,Europe,Email,Poor product quality
+R0056,O65103,C1749,Face Cream,Beauty,North America,Paid Ads,Item arrived late
+R0057,O89619,C2453,T-shirt,Apparel,Asia,Email,Found better price elsewhere
+R0058,O11654,C1589,Blender,Home & Kitchen,Asia,Referral,Wrong item sent
+R0059,O86897,C3815,Jeans,Apparel,Australia,Social Media,Product did not match description
+R0060,O97833,C4221,Biography,Books,Europe,Social Media,Item arrived late
+R0061,O23511,C3779,Foundation,Beauty,Europe,Email,Product did not match description
+R0062,O95565,C2157,Fantasy Fiction,Books,Asia,Referral,Item arrived late
+R0063,O33410,C7485,Dumbbells,Sports,South America,Email,Product no longer needed
+R0064,O95652,C5105,Laptop,Electronics,Europe,Email,Product no longer needed
+R0065,O73130,C8781,Eyeliner,Beauty,North America,Social Media,Size or fit issue
+R0066,O34174,C2167,Sneakers,Apparel,Australia,Paid Ads,Item arrived late
+R0067,O46263,C5264,T-shirt,Apparel,South America,Social Media,Unauthorized purchase
+R0068,O79686,C6374,Vacuum Cleaner,Home & Kitchen,Asia,Referral,Product no longer needed
+R0069,O30202,C4009,Cookbook,Books,Asia,Paid Ads,Item defective or damaged
+R0070,O39136,C7592,Dumbbells,Sports,North America,Organic Search,Wrong item sent
+R0071,O50883,C6031,Microwave,Home & Kitchen,South America,Referral,Found better price elsewhere
+R0072,O28857,C6385,Dress,Apparel,Europe,Social Media,Size or fit issue
+R0073,O50552,C8214,Smartphone,Electronics,South America,Organic Search,Wrong item sent
+R0074,O35818,C8223,Smartphone,Electronics,Europe,Social Media,Poor product quality
+R0075,O63766,C7994,Cookware Set,Home & Kitchen,North America,Paid Ads,Found better price elsewhere
+R0076,O29263,C2184,Mystery Novel,Books,Australia,Organic Search,Changed mind
+R0077,O77700,C9436,Biography,Books,Asia,Paid Ads,Wrong item sent
+R0078,O79707,C5549,Dumbbells,Sports,Asia,Organic Search,Product did not match description
+R0079,O84181,C9157,Microwave,Home & Kitchen,Australia,Email,Item arrived late
+R0080,O73389,C8821,Science Textbook,Books,Asia,Referral,Found better price elsewhere
+R0081,O40505,C2368,Yoga Mat,Sports,Australia,Social Media,Item defective or damaged
+R0082,O35344,C9025,Mystery Novel,Books,Australia,Organic Search,Product did not match description
+R0083,O50947,C7713,Face Cream,Beauty,South America,Social Media,Unauthorized purchase
+R0084,O57120,C6063,Jeans,Apparel,South America,Social Media,Item defective or damaged
+R0085,O54051,C3531,Tennis Racket,Sports,South America,Referral,Product no longer needed
+R0086,O33872,C3353,Sneakers,Apparel,Australia,Organic Search,Poor product quality
+R0087,O18793,C9202,Science Textbook,Books,South America,Paid Ads,Changed mind
+R0088,O48815,C6721,Jeans,Apparel,Asia,Email,Unauthorized purchase
+R0089,O18175,C3020,Biography,Books,South America,Paid Ads,Found better price elsewhere
+R0090,O96650,C2843,Tablet,Electronics,North America,Organic Search,Product did not match description
+R0091,O34564,C8516,Bluetooth Speaker,Electronics,South America,Organic Search,Unauthorized purchase
+R0092,O73240,C4104,Smartphone,Electronics,Asia,Referral,Product no longer needed
+R0093,O92063,C7174,Jeans,Apparel,North America,Referral,Found better price elsewhere
+R0094,O56088,C1321,Yoga Mat,Sports,Australia,Email,Unauthorized purchase
+R0095,O58550,C5636,Face Cream,Beauty,Australia,Referral,Product did not match description
+R0096,O66910,C9637,Bluetooth Speaker,Electronics,North America,Organic Search,Found better price elsewhere
+R0097,O93771,C1116,Face Cream,Beauty,Europe,Organic Search,Item defective or damaged
+R0098,O74806,C3780,Vacuum Cleaner,Home & Kitchen,South America,Paid Ads,Changed mind
+R0099,O81121,C3701,Tablet,Electronics,Asia,Paid Ads,Poor product quality
+R0100,O76057,C1675,Fantasy Fiction,Books,Asia,Organic Search,Wrong item sent
+R0101,O31099,C4816,Sneakers,Apparel,North America,Referral,Changed mind
+R0102,O20492,C2115,Mystery Novel,Books,Asia,Organic Search,Product no longer needed
+R0103,O77431,C9445,Dumbbells,Sports,Europe,Referral,Poor product quality
+R0104,O65435,C3474,Tablet,Electronics,Australia,Paid Ads,Item defective or damaged
+R0105,O56355,C5788,Lipstick,Beauty,Australia,Paid Ads,Unauthorized purchase
+R0106,O93744,C5437,Running Shoes,Sports,Australia,Referral,Unauthorized purchase
+R0107,O68169,C9604,Tablet,Electronics,South America,Organic Search,Unauthorized purchase
+R0108,O61460,C6388,Smartphone,Electronics,North America,Organic Search,Size or fit issue
+R0109,O89438,C9593,Foundation,Beauty,Europe,Social Media,Size or fit issue
+R0110,O88932,C2901,Running Shoes,Sports,North America,Referral,Poor product quality
+R0111,O95266,C9624,Smartphone,Electronics,Europe,Paid Ads,Changed mind
+R0112,O52977,C8669,Cookware Set,Home & Kitchen,South America,Social Media,Unauthorized purchase
+R0113,O49361,C7679,Foundation,Beauty,South America,Referral,Product no longer needed
+R0114,O23276,C6332,Smartphone,Electronics,Europe,Social Media,Changed mind
+R0115,O98433,C9325,Jeans,Apparel,Europe,Email,Size or fit issue
+R0116,O28770,C8539,Tennis Racket,Sports,Asia,Referral,Found better price elsewhere
+R0117,O73703,C2206,Tablet,Electronics,South America,Organic Search,Poor product quality
+R0118,O36178,C6259,Laptop,Electronics,Europe,Email,Unauthorized purchase
+R0119,O53652,C3956,Bluetooth Speaker,Electronics,Australia,Email,Found better price elsewhere
+R0120,O41844,C7738,Sneakers,Apparel,North America,Social Media,Poor product quality
+R0121,O64113,C9577,Dress,Apparel,Asia,Referral,Poor product quality
+R0122,O10730,C4596,Fantasy Fiction,Books,Asia,Social Media,Wrong item sent
+R0123,O91799,C5439,Basketball,Sports,Europe,Paid Ads,Changed mind
+R0124,O64678,C7535,Microwave,Home & Kitchen,South America,Organic Search,Item defective or damaged
+R0125,O97595,C4343,Blender,Home & Kitchen,Europe,Organic Search,Product did not match description
+R0126,O18787,C9114,Science Textbook,Books,Europe,Social Media,Product no longer needed
+R0127,O58951,C9735,Perfume,Beauty,Europe,Organic Search,Wrong item sent
+R0128,O52517,C8389,Dumbbells,Sports,North America,Social Media,Poor product quality
+R0129,O65507,C8078,Foundation,Beauty,Europe,Social Media,Poor product quality
+R0130,O11309,C2163,Cookbook,Books,South America,Email,Poor product quality
+R0131,O42201,C2066,Lipstick,Beauty,Australia,Social Media,Item defective or damaged
+R0132,O54567,C1076,Vacuum Cleaner,Home & Kitchen,Europe,Social Media,Changed mind
+R0133,O81246,C3267,Microwave,Home & Kitchen,South America,Paid Ads,Product no longer needed
+R0134,O41992,C8319,Science Textbook,Books,Asia,Organic Search,Item arrived late
+R0135,O17291,C2649,Yoga Mat,Sports,North America,Paid Ads,Wrong item sent
+R0136,O17110,C2080,Dress,Apparel,Australia,Social Media,Unauthorized purchase
+R0137,O18825,C7668,Biography,Books,North America,Social Media,Item arrived late
+R0138,O12093,C9292,Microwave,Home & Kitchen,Asia,Paid Ads,Item defective or damaged
+R0139,O23746,C1150,Yoga Mat,Sports,Europe,Organic Search,Product did not match description
+R0140,O80941,C1367,Lipstick,Beauty,Europe,Referral,Product did not match description
+R0141,O25192,C9251,Jeans,Apparel,Europe,Organic Search,Unauthorized purchase
+R0142,O36163,C1445,Jacket,Apparel,South America,Organic Search,Poor product quality
+R0143,O14123,C8565,Cookware Set,Home & Kitchen,South America,Social Media,Changed mind
+R0144,O11306,C3104,T-shirt,Apparel,Asia,Organic Search,Unauthorized purchase
+R0145,O12836,C1988,Biography,Books,Europe,Email,Poor product quality
+R0146,O18330,C1808,Tablet,Electronics,North America,Email,Item arrived late
+R0147,O97687,C1745,Biography,Books,Asia,Email,Product did not match description
+R0148,O52507,C6828,Lipstick,Beauty,Europe,Referral,Product no longer needed
+R0149,O92480,C8033,Yoga Mat,Sports,South America,Paid Ads,Product no longer needed
+R0150,O87140,C6267,Foundation,Beauty,Asia,Email,Product did not match description
+R0151,O53221,C6674,Mystery Novel,Books,Asia,Email,Wrong item sent
+R0152,O23510,C5629,Microwave,Home & Kitchen,South America,Organic Search,Found better price elsewhere
+R0153,O85214,C7808,Cookware Set,Home & Kitchen,Australia,Social Media,Changed mind
+R0154,O48197,C1093,Blender,Home & Kitchen,Asia,Email,Found better price elsewhere
+R0155,O66344,C7911,Blender,Home & Kitchen,South America,Email,Unauthorized purchase
+R0156,O77528,C1783,Microwave,Home & Kitchen,Australia,Organic Search,Unauthorized purchase
+R0157,O77338,C9260,Foundation,Beauty,Australia,Organic Search,Wrong item sent
+R0158,O53946,C7027,Smartphone,Electronics,South America,Paid Ads,Size or fit issue
+R0159,O12851,C5105,Headphones,Electronics,North America,Paid Ads,Found better price elsewhere
+R0160,O94226,C6157,Vacuum Cleaner,Home & Kitchen,Europe,Paid Ads,Changed mind
+R0161,O36720,C9683,Jeans,Apparel,Europe,Social Media,Product no longer needed
+R0162,O31418,C1745,Foundation,Beauty,South America,Organic Search,Found better price elsewhere
+R0163,O37098,C9912,Headphones,Electronics,South America,Organic Search,Unauthorized purchase
+R0164,O72004,C1377,Science Textbook,Books,South America,Referral,Found better price elsewhere
+R0165,O87012,C5461,Blender,Home & Kitchen,South America,Referral,Wrong item sent
+R0166,O94345,C1999,Sneakers,Apparel,Asia,Email,Wrong item sent
+R0167,O36608,C4579,Sneakers,Apparel,North America,Referral,Found better price elsewhere
+R0168,O64531,C1458,Smartphone,Electronics,Australia,Organic Search,Product did not match description
+R0169,O31229,C6087,Vacuum Cleaner,Home & Kitchen,Asia,Paid Ads,Poor product quality
+R0170,O11451,C9404,Vacuum Cleaner,Home & Kitchen,North America,Email,Changed mind
+R0171,O24342,C5942,Laptop,Electronics,Australia,Social Media,Product did not match description
+R0172,O13769,C8884,Toaster,Home & Kitchen,South America,Organic Search,Item arrived late
+R0173,O76945,C1183,Jeans,Apparel,South America,Referral,Product no longer needed
+R0174,O47636,C1720,Fantasy Fiction,Books,South America,Email,Changed mind
+R0175,O99704,C2147,Sneakers,Apparel,North America,Email,Wrong item sent
+R0176,O63903,C8155,Jacket,Apparel,South America,Referral,Wrong item sent
+R0177,O90202,C9902,Tablet,Electronics,Asia,Referral,Product no longer needed
+R0178,O16496,C6534,Jeans,Apparel,South America,Email,Item defective or damaged
+R0179,O49455,C1015,Vacuum Cleaner,Home & Kitchen,Asia,Organic Search,Changed mind
+R0180,O42117,C6258,Laptop,Electronics,Asia,Email,Unauthorized purchase
+R0181,O33951,C9864,Mystery Novel,Books,North America,Social Media,Size or fit issue
+R0182,O15262,C5990,Running Shoes,Sports,North America,Paid Ads,Changed mind
+R0183,O84379,C4379,Tennis Racket,Sports,South America,Organic Search,Poor product quality
+R0184,O67206,C4140,Yoga Mat,Sports,Asia,Organic Search,Item defective or damaged
+R0185,O61434,C5281,Yoga Mat,Sports,Australia,Referral,Product did not match description
+R0186,O42559,C3226,Blender,Home & Kitchen,Australia,Referral,Changed mind
+R0187,O78399,C1079,Sneakers,Apparel,Australia,Referral,Product no longer needed
+R0188,O51358,C8372,Fantasy Fiction,Books,South America,Email,Item defective or damaged
+R0189,O90413,C5572,Smartphone,Electronics,Australia,Email,Product no longer needed
+R0190,O36474,C3357,Dress,Apparel,North America,Organic Search,Product did not match description
+R0191,O42971,C2218,Jeans,Apparel,South America,Paid Ads,Changed mind
+R0192,O42272,C6237,Sneakers,Apparel,Australia,Email,Poor product quality
+R0193,O56445,C8202,Science Textbook,Books,Asia,Referral,Found better price elsewhere
+R0194,O22617,C8426,Fantasy Fiction,Books,Asia,Social Media,Found better price elsewhere
+R0195,O53281,C2133,Biography,Books,South America,Paid Ads,Unauthorized purchase
+R0196,O34670,C7410,Fantasy Fiction,Books,Asia,Paid Ads,Found better price elsewhere
+R0197,O54717,C7841,Microwave,Home & Kitchen,Europe,Referral,Unauthorized purchase
+R0198,O63668,C4127,Tennis Racket,Sports,North America,Paid Ads,Wrong item sent
+R0199,O40895,C3067,Jeans,Apparel,North America,Paid Ads,Item defective or damaged
+R0200,O34582,C1270,Face Cream,Beauty,Asia,Email,Wrong item sent
+R0201,O36722,C2320,T-shirt,Apparel,North America,Email,Changed mind
+R0202,O61951,C2183,Laptop,Electronics,North America,Social Media,Item defective or damaged
+R0203,O27728,C2295,Face Cream,Beauty,Australia,Paid Ads,Item arrived late
+R0204,O15740,C4203,Tablet,Electronics,North America,Social Media,Unauthorized purchase
+R0205,O90577,C2825,Tablet,Electronics,Asia,Email,Product did not match description
+R0206,O21271,C2187,Mystery Novel,Books,Europe,Email,Changed mind
+R0207,O62644,C8809,Biography,Books,Australia,Email,Size or fit issue
+R0208,O98641,C3859,Cookbook,Books,Asia,Referral,Wrong item sent
+R0209,O71259,C6155,Blender,Home & Kitchen,North America,Email,Item defective or damaged
+R0210,O16054,C1399,Cookbook,Books,North America,Paid Ads,Product did not match description
+R0211,O94892,C3352,Cookbook,Books,South America,Email,Item arrived late
+R0212,O13319,C9280,Sneakers,Apparel,South America,Paid Ads,Item defective or damaged
+R0213,O87081,C4337,Microwave,Home & Kitchen,Asia,Social Media,Product did not match description
+R0214,O66680,C7384,Dress,Apparel,Australia,Email,Poor product quality
+R0215,O36868,C9179,Perfume,Beauty,Europe,Email,Item arrived late
+R0216,O99474,C3757,Perfume,Beauty,North America,Referral,Product did not match description
+R0217,O19453,C9690,Tennis Racket,Sports,Asia,Paid Ads,Found better price elsewhere
+R0218,O19692,C1114,Eyeliner,Beauty,Asia,Social Media,Wrong item sent
+R0219,O42858,C9049,Lipstick,Beauty,Asia,Paid Ads,Unauthorized purchase
+R0220,O79036,C5240,Toaster,Home & Kitchen,North America,Email,Product no longer needed
+R0221,O55461,C9992,Tablet,Electronics,Australia,Email,Product did not match description
+R0222,O87400,C5870,Cookware Set,Home & Kitchen,Asia,Social Media,Wrong item sent
+R0223,O40161,C4361,Microwave,Home & Kitchen,North America,Social Media,Unauthorized purchase
+R0224,O86458,C1174,Jacket,Apparel,Europe,Referral,Size or fit issue
+R0225,O95554,C6528,Toaster,Home & Kitchen,Australia,Organic Search,Found better price elsewhere
+R0226,O76300,C9416,Dumbbells,Sports,Europe,Referral,Poor product quality
+R0227,O27155,C1968,Eyeliner,Beauty,Australia,Email,Poor product quality
+R0228,O63546,C3480,Face Cream,Beauty,Australia,Referral,Item arrived late
+R0229,O44598,C8743,Cookware Set,Home & Kitchen,Europe,Email,Changed mind
+R0230,O55544,C7880,Eyeliner,Beauty,North America,Social Media,Changed mind
+R0231,O86980,C1321,Smartphone,Electronics,North America,Paid Ads,Wrong item sent
+R0232,O20701,C5912,Running Shoes,Sports,North America,Referral,Poor product quality
+R0233,O62984,C9376,Running Shoes,Sports,South America,Paid Ads,Wrong item sent
+R0234,O97643,C4716,Perfume,Beauty,Australia,Email,Wrong item sent
+R0235,O82940,C8152,Toaster,Home & Kitchen,South America,Referral,Item arrived late
+R0236,O77672,C9015,Perfume,Beauty,South America,Organic Search,Unauthorized purchase
+R0237,O58069,C2807,Foundation,Beauty,South America,Social Media,Unauthorized purchase
+R0238,O13468,C7629,Biography,Books,Europe,Organic Search,Product no longer needed
+R0239,O30404,C8104,Jacket,Apparel,Australia,Social Media,Wrong item sent
+R0240,O40385,C2433,Biography,Books,Europe,Paid Ads,Product did not match description
+R0241,O64796,C8341,Jeans,Apparel,Australia,Email,Item defective or damaged
+R0242,O93346,C2264,Jeans,Apparel,Asia,Referral,Size or fit issue
+R0243,O58206,C6712,Tennis Racket,Sports,Europe,Organic Search,Poor product quality
+R0244,O97469,C7845,Cookware Set,Home & Kitchen,South America,Social Media,Product did not match description
+R0245,O37335,C4942,Tennis Racket,Sports,Australia,Email,Product did not match description
+R0246,O35143,C5134,Toaster,Home & Kitchen,Europe,Social Media,Item arrived late
+R0247,O93008,C5999,Bluetooth Speaker,Electronics,Australia,Organic Search,Found better price elsewhere
+R0248,O68134,C5612,Dumbbells,Sports,South America,Social Media,Found better price elsewhere
+R0249,O78164,C8229,Laptop,Electronics,Europe,Organic Search,Changed mind
+R0250,O78444,C4614,Mystery Novel,Books,North America,Organic Search,Product no longer needed
+R0251,O14163,C2472,Headphones,Electronics,South America,Social Media,Item defective or damaged
+R0252,O48267,C8036,Jacket,Apparel,Asia,Paid Ads,Poor product quality
+R0253,O54584,C5789,Face Cream,Beauty,Europe,Organic Search,Item arrived late
+R0254,O49632,C7297,Fantasy Fiction,Books,Europe,Paid Ads,Item arrived late
+R0255,O53694,C8391,Sneakers,Apparel,South America,Referral,Found better price elsewhere
+R0256,O46348,C5284,Basketball,Sports,North America,Email,Product did not match description
+R0257,O12550,C9991,Eyeliner,Beauty,North America,Organic Search,Item arrived late
+R0258,O65707,C8825,Eyeliner,Beauty,Asia,Social Media,Changed mind
+R0259,O60483,C4906,T-shirt,Apparel,Europe,Referral,Item arrived late
+R0260,O83357,C3225,Smartphone,Electronics,Australia,Organic Search,Unauthorized purchase
+R0261,O12174,C3054,Blender,Home & Kitchen,Australia,Email,Unauthorized purchase
+R0262,O21671,C7978,Smartphone,Electronics,South America,Organic Search,Item arrived late
+R0263,O55634,C9962,Laptop,Electronics,Australia,Social Media,Item defective or damaged
+R0264,O67850,C6532,Cookware Set,Home & Kitchen,South America,Email,Item arrived late
+R0265,O18587,C9351,Cookbook,Books,Asia,Referral,Size or fit issue
+R0266,O22359,C7799,Blender,Home & Kitchen,Australia,Organic Search,Product did not match description
+R0267,O83389,C8955,Sneakers,Apparel,Australia,Email,Product did not match description
+R0268,O60242,C4497,Lipstick,Beauty,Europe,Social Media,Item arrived late
+R0269,O34582,C3686,Jacket,Apparel,Asia,Organic Search,Found better price elsewhere
+R0270,O24777,C2410,Dumbbells,Sports,North America,Social Media,Item arrived late
+R0271,O27807,C2066,Dress,Apparel,South America,Paid Ads,Changed mind
+R0272,O32141,C9153,Face Cream,Beauty,Asia,Referral,Poor product quality
+R0273,O36629,C3848,Toaster,Home & Kitchen,Australia,Paid Ads,Item defective or damaged
+R0274,O36010,C9669,Basketball,Sports,South America,Email,Size or fit issue
+R0275,O41505,C2103,Vacuum Cleaner,Home & Kitchen,North America,Referral,Found better price elsewhere
+R0276,O10872,C2585,Tablet,Electronics,Australia,Organic Search,Product no longer needed
+R0277,O70934,C8086,Mystery Novel,Books,South America,Referral,Unauthorized purchase
+R0278,O89704,C2065,Face Cream,Beauty,South America,Referral,Product no longer needed
+R0279,O87655,C3568,Mystery Novel,Books,North America,Referral,Changed mind
+R0280,O61124,C8174,Toaster,Home & Kitchen,South America,Paid Ads,Changed mind
+R0281,O20095,C2842,Toaster,Home & Kitchen,Australia,Email,Product did not match description
+R0282,O63414,C1516,Mystery Novel,Books,Australia,Organic Search,Poor product quality
+R0283,O56490,C7719,Perfume,Beauty,South America,Organic Search,Found better price elsewhere
+R0284,O69606,C8449,Jeans,Apparel,Europe,Referral,Item defective or damaged
+R0285,O81374,C6366,Perfume,Beauty,Australia,Paid Ads,Found better price elsewhere
+R0286,O81514,C8856,Fantasy Fiction,Books,Asia,Organic Search,Found better price elsewhere
+R0287,O36981,C9803,Fantasy Fiction,Books,North America,Social Media,Item defective or damaged
+R0288,O19451,C8405,Foundation,Beauty,North America,Social Media,Found better price elsewhere
+R0289,O38595,C3772,Sneakers,Apparel,South America,Email,Wrong item sent
+R0290,O33992,C6907,Science Textbook,Books,North America,Social Media,Changed mind
+R0291,O38292,C3939,Toaster,Home & Kitchen,Asia,Organic Search,Changed mind
+R0292,O20850,C5761,Toaster,Home & Kitchen,Europe,Paid Ads,Changed mind
+R0293,O16116,C5510,Tablet,Electronics,South America,Paid Ads,Unauthorized purchase
+R0294,O35995,C6161,Microwave,Home & Kitchen,Australia,Social Media,Found better price elsewhere
+R0295,O65994,C1707,T-shirt,Apparel,Europe,Organic Search,Item arrived late
+R0296,O53962,C9357,Lipstick,Beauty,Asia,Referral,Item defective or damaged
+R0297,O48508,C1510,Dress,Apparel,Asia,Social Media,Product no longer needed
+R0298,O25945,C4626,Eyeliner,Beauty,North America,Organic Search,Item defective or damaged
+R0299,O14233,C4227,Mystery Novel,Books,North America,Social Media,Unauthorized purchase
+R0300,O61784,C7031,Running Shoes,Sports,Australia,Paid Ads,Size or fit issue
+R0301,O10951,C6065,Basketball,Sports,Australia,Paid Ads,Product no longer needed
+R0302,O33779,C2970,Jacket,Apparel,North America,Social Media,Size or fit issue
+R0303,O48124,C5543,Lipstick,Beauty,South America,Social Media,Poor product quality
+R0304,O66524,C2493,Face Cream,Beauty,North America,Paid Ads,Unauthorized purchase
+R0305,O97738,C1221,Running Shoes,Sports,Australia,Paid Ads,Unauthorized purchase
+R0306,O39166,C8961,Headphones,Electronics,Europe,Referral,Poor product quality
+R0307,O51889,C8323,Headphones,Electronics,Europe,Referral,Unauthorized purchase
+R0308,O22653,C5897,Tennis Racket,Sports,Australia,Organic Search,Poor product quality
+R0309,O86773,C4763,Microwave,Home & Kitchen,Europe,Organic Search,Item arrived late
+R0310,O71725,C8057,Sneakers,Apparel,Europe,Referral,Wrong item sent
+R0311,O29126,C4096,Lipstick,Beauty,Asia,Email,Unauthorized purchase
+R0312,O66756,C7242,Tablet,Electronics,Australia,Social Media,Found better price elsewhere
+R0313,O28943,C5753,Dumbbells,Sports,Australia,Paid Ads,Item arrived late
+R0314,O73011,C1665,Basketball,Sports,North America,Email,Product did not match description
+R0315,O21126,C2111,Mystery Novel,Books,North America,Paid Ads,Product no longer needed
+R0316,O70456,C3634,Cookware Set,Home & Kitchen,Europe,Organic Search,Product no longer needed
+R0317,O20290,C8709,Jeans,Apparel,North America,Email,Product no longer needed
+R0318,O90121,C6928,Tablet,Electronics,Australia,Email,Found better price elsewhere
+R0319,O63589,C2008,Tennis Racket,Sports,South America,Referral,Changed mind
+R0320,O81653,C2434,Tablet,Electronics,Australia,Email,Item arrived late
+R0321,O27480,C2100,Dumbbells,Sports,Australia,Email,Poor product quality
+R0322,O14893,C7707,Lipstick,Beauty,South America,Social Media,Unauthorized purchase
+R0323,O46663,C8905,Jacket,Apparel,Europe,Social Media,Item arrived late
+R0324,O99657,C1618,Cookbook,Books,North America,Referral,Item defective or damaged
+R0325,O68568,C1433,Science Textbook,Books,North America,Email,Poor product quality
+R0326,O67864,C2860,Jacket,Apparel,Australia,Social Media,Size or fit issue
+R0327,O42091,C9502,Cookbook,Books,Europe,Paid Ads,Item defective or damaged
+R0328,O83048,C5219,Blender,Home & Kitchen,Australia,Social Media,Unauthorized purchase
+R0329,O38937,C1360,Science Textbook,Books,Asia,Email,Item defective or damaged
+R0330,O87112,C8983,Blender,Home & Kitchen,South America,Organic Search,Item defective or damaged
+R0331,O58634,C2038,Laptop,Electronics,Asia,Social Media,Found better price elsewhere
+R0332,O40789,C5753,Face Cream,Beauty,North America,Paid Ads,Item arrived late
+R0333,O44331,C9776,Running Shoes,Sports,North America,Paid Ads,Changed mind
+R0334,O87467,C5506,Tablet,Electronics,North America,Email,Size or fit issue
+R0335,O44137,C6757,Dumbbells,Sports,Asia,Organic Search,Product did not match description
+R0336,O20428,C1266,Face Cream,Beauty,North America,Referral,Item defective or damaged
+R0337,O26475,C8311,Lipstick,Beauty,Asia,Organic Search,Wrong item sent
+R0338,O89602,C4934,Lipstick,Beauty,Australia,Email,Item arrived late
+R0339,O23898,C2279,Jacket,Apparel,Australia,Referral,Changed mind
+R0340,O78208,C1187,Cookware Set,Home & Kitchen,Europe,Email,Changed mind
+R0341,O32973,C6009,Cookware Set,Home & Kitchen,Australia,Referral,Item defective or damaged
+R0342,O28328,C9942,Dumbbells,Sports,Australia,Paid Ads,Poor product quality
+R0343,O40995,C9043,Science Textbook,Books,Australia,Organic Search,Poor product quality
+R0344,O46790,C7340,Toaster,Home & Kitchen,Asia,Email,Changed mind
+R0345,O74180,C4914,Jacket,Apparel,North America,Referral,Found better price elsewhere
+R0346,O45396,C1762,Cookware Set,Home & Kitchen,North America,Social Media,Item defective or damaged
+R0347,O24157,C8415,Vacuum Cleaner,Home & Kitchen,Australia,Email,Changed mind
+R0348,O66731,C8674,T-shirt,Apparel,Australia,Paid Ads,Found better price elsewhere
+R0349,O97872,C2105,Cookware Set,Home & Kitchen,North America,Social Media,Found better price elsewhere
+R0350,O99508,C7105,Biography,Books,Europe,Social Media,Poor product quality
+R0351,O71966,C8247,Vacuum Cleaner,Home & Kitchen,Europe,Organic Search,Poor product quality
+R0352,O22859,C2344,Eyeliner,Beauty,South America,Email,Poor product quality
+R0353,O28028,C5799,Mystery Novel,Books,South America,Organic Search,Product did not match description
+R0354,O42650,C7342,Eyeliner,Beauty,Europe,Email,Product did not match description
+R0355,O63087,C1991,Bluetooth Speaker,Electronics,North America,Referral,Item arrived late
+R0356,O45935,C4613,Foundation,Beauty,South America,Social Media,Poor product quality
+R0357,O83403,C7106,Blender,Home & Kitchen,Europe,Email,Item arrived late
+R0358,O12151,C6511,Fantasy Fiction,Books,Australia,Social Media,Changed mind
+R0359,O98387,C8823,Vacuum Cleaner,Home & Kitchen,Asia,Referral,Item defective or damaged
+R0360,O86997,C1906,Vacuum Cleaner,Home & Kitchen,Europe,Organic Search,Found better price elsewhere
+R0361,O60145,C8861,T-shirt,Apparel,Australia,Paid Ads,Item arrived late
+R0362,O20265,C8687,Tablet,Electronics,Europe,Paid Ads,Changed mind
+R0363,O75046,C4454,T-shirt,Apparel,Australia,Referral,Found better price elsewhere
+R0364,O21751,C9031,Jeans,Apparel,Europe,Referral,Size or fit issue
+R0365,O99327,C9113,Bluetooth Speaker,Electronics,South America,Organic Search,Unauthorized purchase
+R0366,O57843,C8725,Jacket,Apparel,Europe,Email,Changed mind
+R0367,O50712,C9083,Jeans,Apparel,Australia,Social Media,Size or fit issue
+R0368,O25648,C3974,Sneakers,Apparel,Asia,Email,Unauthorized purchase
+R0369,O67543,C6567,Running Shoes,Sports,Australia,Referral,Size or fit issue
+R0370,O94514,C2992,Lipstick,Beauty,North America,Email,Found better price elsewhere
+R0371,O86279,C8252,Jeans,Apparel,North America,Paid Ads,Product did not match description
+R0372,O80898,C9709,Laptop,Electronics,North America,Social Media,Changed mind
+R0373,O91192,C2220,Science Textbook,Books,Europe,Organic Search,Product no longer needed
+R0374,O54527,C7045,Basketball,Sports,Australia,Paid Ads,Poor product quality
+R0375,O26839,C7755,Dress,Apparel,South America,Organic Search,Size or fit issue
+R0376,O35805,C6580,Mystery Novel,Books,North America,Email,Unauthorized purchase
+R0377,O61604,C1949,Mystery Novel,Books,Europe,Referral,Wrong item sent
+R0378,O45251,C4350,Perfume,Beauty,South America,Email,Wrong item sent
+R0379,O36679,C1567,Bluetooth Speaker,Electronics,Asia,Referral,Poor product quality
+R0380,O22891,C8101,Yoga Mat,Sports,Europe,Referral,Wrong item sent
+R0381,O95754,C7703,Running Shoes,Sports,Asia,Email,Item arrived late
+R0382,O23182,C1420,Mystery Novel,Books,Europe,Paid Ads,Product no longer needed
+R0383,O58736,C6024,Fantasy Fiction,Books,Europe,Referral,Product no longer needed
+R0384,O27965,C5983,Headphones,Electronics,Asia,Referral,Unauthorized purchase
+R0385,O50152,C3615,Science Textbook,Books,Australia,Organic Search,Product did not match description
+R0386,O56119,C3161,Running Shoes,Sports,South America,Referral,Wrong item sent
+R0387,O38768,C8164,Running Shoes,Sports,South America,Organic Search,Product did not match description
+R0388,O55574,C5236,Foundation,Beauty,Asia,Paid Ads,Wrong item sent
+R0389,O92057,C1290,Lipstick,Beauty,Europe,Referral,Unauthorized purchase
+R0390,O23407,C8171,Sneakers,Apparel,Europe,Paid Ads,Size or fit issue
+R0391,O25745,C1503,Tennis Racket,Sports,North America,Social Media,Changed mind
+R0392,O97665,C4342,Lipstick,Beauty,North America,Organic Search,Size or fit issue
+R0393,O45149,C7466,Cookware Set,Home & Kitchen,North America,Organic Search,Wrong item sent
+R0394,O56793,C9534,Cookbook,Books,North America,Email,Product did not match description
+R0395,O72721,C9083,Biography,Books,Europe,Email,Wrong item sent
+R0396,O54846,C3645,Dress,Apparel,Australia,Paid Ads,Found better price elsewhere
+R0397,O81314,C3097,Running Shoes,Sports,Asia,Email,Changed mind
+R0398,O21452,C6056,Blender,Home & Kitchen,Australia,Social Media,Changed mind
+R0399,O43716,C3437,Foundation,Beauty,Australia,Referral,Item arrived late
+R0400,O79737,C1825,Mystery Novel,Books,South America,Social Media,Size or fit issue
+R0401,O82778,C9241,Jeans,Apparel,Asia,Email,Wrong item sent
+R0402,O94826,C6459,Science Textbook,Books,Australia,Organic Search,Item defective or damaged
+R0403,O13221,C1353,Smartphone,Electronics,Europe,Organic Search,Item defective or damaged
+R0404,O48970,C8316,Face Cream,Beauty,Asia,Referral,Found better price elsewhere
+R0405,O62874,C8433,Yoga Mat,Sports,Europe,Referral,Item arrived late
+R0406,O17213,C2277,Bluetooth Speaker,Electronics,South America,Referral,Size or fit issue
+R0407,O62859,C2618,Perfume,Beauty,North America,Email,Poor product quality
+R0408,O33501,C2951,Toaster,Home & Kitchen,Australia,Organic Search,Unauthorized purchase
+R0409,O87640,C8197,Cookbook,Books,Australia,Social Media,Item arrived late
+R0410,O22620,C8809,Headphones,Electronics,South America,Social Media,Poor product quality
+R0411,O97175,C3273,T-shirt,Apparel,Australia,Organic Search,Found better price elsewhere
+R0412,O36313,C2857,Jacket,Apparel,South America,Organic Search,Unauthorized purchase
+R0413,O71807,C1666,Yoga Mat,Sports,Australia,Social Media,Item defective or damaged
+R0414,O88885,C2763,Jeans,Apparel,North America,Referral,Product no longer needed
+R0415,O57480,C5980,Tablet,Electronics,Europe,Email,Item defective or damaged
+R0416,O96538,C2867,Dumbbells,Sports,Asia,Social Media,Unauthorized purchase
+R0417,O15175,C1788,Headphones,Electronics,Asia,Organic Search,Poor product quality
+R0418,O40197,C2894,Yoga Mat,Sports,South America,Referral,Product no longer needed
+R0419,O35566,C3101,Running Shoes,Sports,Asia,Referral,Changed mind
+R0420,O36072,C6412,Blender,Home & Kitchen,North America,Email,Product no longer needed
+R0421,O47000,C9055,Basketball,Sports,Asia,Social Media,Size or fit issue
+R0422,O94149,C3431,Sneakers,Apparel,Europe,Social Media,Unauthorized purchase
+R0423,O56434,C4308,Eyeliner,Beauty,North America,Referral,Item defective or damaged
+R0424,O60004,C4564,Yoga Mat,Sports,South America,Email,Wrong item sent
+R0425,O90655,C8682,Lipstick,Beauty,Asia,Referral,Unauthorized purchase
+R0426,O26461,C1574,Foundation,Beauty,Asia,Email,Poor product quality
+R0427,O60121,C7254,Smartphone,Electronics,South America,Organic Search,Item defective or damaged
+R0428,O30335,C6183,Basketball,Sports,Asia,Paid Ads,Item arrived late
+R0429,O28722,C9595,Blender,Home & Kitchen,South America,Referral,Wrong item sent
+R0430,O69464,C6602,Cookware Set,Home & Kitchen,South America,Paid Ads,Size or fit issue
+R0431,O11066,C6789,Microwave,Home & Kitchen,South America,Social Media,Size or fit issue
+R0432,O41527,C4922,Biography,Books,Australia,Social Media,Wrong item sent
+R0433,O67669,C9577,Foundation,Beauty,North America,Paid Ads,Product did not match description
+R0434,O86818,C6055,Mystery Novel,Books,Asia,Email,Product no longer needed
+R0435,O25150,C4954,Cookware Set,Home & Kitchen,Europe,Email,Unauthorized purchase
+R0436,O88101,C5213,Perfume,Beauty,Europe,Referral,Item arrived late
+R0437,O70904,C7974,Cookbook,Books,South America,Social Media,Poor product quality
+R0438,O33920,C9145,Laptop,Electronics,Australia,Email,Product did not match description
+R0439,O28567,C2745,Smartphone,Electronics,Europe,Social Media,Wrong item sent
+R0440,O64181,C1647,Cookware Set,Home & Kitchen,Europe,Paid Ads,Product no longer needed
+R0441,O15634,C6940,T-shirt,Apparel,North America,Organic Search,Wrong item sent
+R0442,O76716,C5240,Biography,Books,Asia,Organic Search,Product no longer needed
+R0443,O86289,C4412,Vacuum Cleaner,Home & Kitchen,North America,Email,Item defective or damaged
+R0444,O83467,C4640,Tablet,Electronics,South America,Organic Search,Poor product quality
+R0445,O83114,C7460,Jacket,Apparel,Asia,Referral,Product no longer needed
+R0446,O15874,C4503,Smartphone,Electronics,Europe,Email,Changed mind
+R0447,O49025,C9788,Cookware Set,Home & Kitchen,Europe,Organic Search,Size or fit issue
+R0448,O79817,C5400,Mystery Novel,Books,Australia,Organic Search,Product no longer needed
+R0449,O93799,C9463,Blender,Home & Kitchen,North America,Paid Ads,Item defective or damaged
+R0450,O82862,C6428,Fantasy Fiction,Books,Australia,Referral,Unauthorized purchase
+R0451,O70237,C1983,Basketball,Sports,North America,Email,Item arrived late
+R0452,O50765,C4318,Foundation,Beauty,Asia,Organic Search,Poor product quality
+R0453,O98956,C4659,Fantasy Fiction,Books,Australia,Social Media,Found better price elsewhere
+R0454,O80690,C8993,Vacuum Cleaner,Home & Kitchen,Australia,Referral,Poor product quality
+R0455,O48429,C3693,Dumbbells,Sports,North America,Paid Ads,Unauthorized purchase
+R0456,O89914,C8862,Perfume,Beauty,Europe,Organic Search,Unauthorized purchase
+R0457,O79373,C4172,Headphones,Electronics,South America,Paid Ads,Product did not match description
+R0458,O97408,C5752,Bluetooth Speaker,Electronics,South America,Paid Ads,Item defective or damaged
+R0459,O53987,C4146,Cookbook,Books,Europe,Organic Search,Size or fit issue
+R0460,O47949,C8821,Eyeliner,Beauty,South America,Email,Item arrived late
+R0461,O82586,C2732,Vacuum Cleaner,Home & Kitchen,Australia,Paid Ads,Unauthorized purchase
+R0462,O83333,C8926,Fantasy Fiction,Books,Europe,Referral,Item arrived late
+R0463,O27589,C6154,Basketball,Sports,Australia,Email,Wrong item sent
+R0464,O68122,C1549,Smartphone,Electronics,South America,Paid Ads,Item arrived late
+R0465,O17948,C9307,Face Cream,Beauty,Asia,Organic Search,Item arrived late
+R0466,O32169,C5519,Running Shoes,Sports,Asia,Social Media,Poor product quality
+R0467,O38154,C3389,Toaster,Home & Kitchen,South America,Email,Product no longer needed
+R0468,O80573,C7673,Jacket,Apparel,North America,Referral,Size or fit issue
+R0469,O89486,C5846,Dumbbells,Sports,North America,Organic Search,Unauthorized purchase
+R0470,O41126,C2628,Science Textbook,Books,Asia,Referral,Poor product quality
+R0471,O32709,C6069,Mystery Novel,Books,Asia,Paid Ads,Item arrived late
+R0472,O15322,C3750,Mystery Novel,Books,Asia,Paid Ads,Found better price elsewhere
+R0473,O39052,C2849,Foundation,Beauty,Asia,Referral,Poor product quality
+R0474,O60920,C5591,Laptop,Electronics,North America,Organic Search,Changed mind
+R0475,O99915,C1255,Blender,Home & Kitchen,South America,Organic Search,Poor product quality
+R0476,O22779,C5134,Science Textbook,Books,South America,Paid Ads,Size or fit issue
+R0477,O24760,C8395,Dress,Apparel,Europe,Paid Ads,Poor product quality
+R0478,O31446,C9175,Microwave,Home & Kitchen,Australia,Referral,Product no longer needed
+R0479,O83782,C8466,Cookware Set,Home & Kitchen,Australia,Social Media,Item defective or damaged
+R0480,O64327,C4033,Eyeliner,Beauty,Asia,Referral,Changed mind
+R0481,O67994,C6850,Basketball,Sports,North America,Referral,Found better price elsewhere
+R0482,O58551,C2137,Tennis Racket,Sports,Australia,Referral,Unauthorized purchase
+R0483,O73470,C6798,Science Textbook,Books,South America,Email,Item defective or damaged
+R0484,O62137,C1210,Jacket,Apparel,North America,Organic Search,Item arrived late
+R0485,O61016,C1691,Headphones,Electronics,Asia,Organic Search,Wrong item sent
+R0486,O60860,C1484,Dumbbells,Sports,South America,Referral,Changed mind
+R0487,O98856,C5469,Dumbbells,Sports,Europe,Organic Search,Wrong item sent
+R0488,O72539,C6963,Perfume,Beauty,Asia,Social Media,Size or fit issue
+R0489,O63647,C8477,Face Cream,Beauty,South America,Social Media,Unauthorized purchase
+R0490,O38792,C1386,Smartphone,Electronics,South America,Organic Search,Product did not match description
+R0491,O58643,C2473,Eyeliner,Beauty,Australia,Email,Wrong item sent
+R0492,O94451,C9559,Eyeliner,Beauty,North America,Paid Ads,Wrong item sent
+R0493,O49564,C8705,Cookbook,Books,North America,Email,Item defective or damaged
+R0494,O50460,C3261,Foundation,Beauty,Asia,Social Media,Item defective or damaged
+R0495,O79229,C1660,Yoga Mat,Sports,Europe,Social Media,Size or fit issue
+R0496,O47626,C7044,Basketball,Sports,South America,Social Media,Wrong item sent
+R0497,O15342,C8418,Biography,Books,Europe,Paid Ads,Wrong item sent
+R0498,O78771,C8819,Face Cream,Beauty,South America,Paid Ads,Wrong item sent
+R0499,O57642,C2057,Lipstick,Beauty,Australia,Social Media,Poor product quality
+R0500,O63272,C3067,Face Cream,Beauty,Asia,Email,Size or fit issue
+R0501,O50266,C2547,Yoga Mat,Sports,Australia,Social Media,Item defective or damaged
+R0502,O75246,C3762,Microwave,Home & Kitchen,Asia,Organic Search,Product no longer needed
+R0503,O39468,C1554,Basketball,Sports,Australia,Email,Found better price elsewhere
+R0504,O34683,C7253,Science Textbook,Books,North America,Email,Product no longer needed
+R0505,O11936,C3374,Dumbbells,Sports,Europe,Organic Search,Product no longer needed
+R0506,O21331,C8904,Sneakers,Apparel,Europe,Referral,Found better price elsewhere
+R0507,O42656,C1869,Running Shoes,Sports,Europe,Paid Ads,Size or fit issue
+R0508,O55604,C4594,Jeans,Apparel,South America,Paid Ads,Item defective or damaged
+R0509,O67173,C8113,Jeans,Apparel,South America,Email,Product no longer needed
+R0510,O18516,C4642,Jeans,Apparel,South America,Paid Ads,Item arrived late
+R0511,O19089,C5729,Jacket,Apparel,Asia,Referral,Product did not match description
+R0512,O63579,C1110,Dress,Apparel,Asia,Social Media,Item arrived late
+R0513,O53007,C8697,Dress,Apparel,Asia,Email,Poor product quality
+R0514,O32241,C6262,Headphones,Electronics,North America,Paid Ads,Changed mind
+R0515,O88919,C4386,Running Shoes,Sports,Asia,Referral,Item defective or damaged
+R0516,O88362,C7289,Mystery Novel,Books,Australia,Referral,Product did not match description
+R0517,O65602,C8034,Cookware Set,Home & Kitchen,Australia,Paid Ads,Item defective or damaged
+R0518,O82178,C3935,Headphones,Electronics,South America,Organic Search,Product no longer needed
+R0519,O49195,C4984,Perfume,Beauty,Europe,Social Media,Unauthorized purchase
+R0520,O20682,C7748,Face Cream,Beauty,Europe,Email,Unauthorized purchase
+R0521,O37109,C4964,Eyeliner,Beauty,South America,Referral,Found better price elsewhere
+R0522,O73730,C5302,Blender,Home & Kitchen,Europe,Social Media,Unauthorized purchase
+R0523,O14237,C3767,Microwave,Home & Kitchen,Europe,Referral,Product no longer needed
+R0524,O32097,C2190,Blender,Home & Kitchen,South America,Paid Ads,Product did not match description
+R0525,O34995,C5925,Perfume,Beauty,North America,Referral,Product did not match description
+R0526,O94884,C1807,Microwave,Home & Kitchen,South America,Social Media,Product no longer needed
+R0527,O37524,C2692,Science Textbook,Books,North America,Social Media,Size or fit issue
+R0528,O40476,C4938,T-shirt,Apparel,Australia,Social Media,Wrong item sent
+R0529,O45817,C6014,Smartphone,Electronics,Europe,Email,Item defective or damaged
+R0530,O85260,C9987,Toaster,Home & Kitchen,Australia,Social Media,Unauthorized purchase
+R0531,O94449,C5431,Toaster,Home & Kitchen,South America,Social Media,Item defective or damaged
+R0532,O38136,C7784,Fantasy Fiction,Books,North America,Paid Ads,Item arrived late
+R0533,O43728,C6593,Microwave,Home & Kitchen,Europe,Organic Search,Unauthorized purchase
+R0534,O25750,C8905,T-shirt,Apparel,South America,Paid Ads,Wrong item sent
+R0535,O35451,C1694,Running Shoes,Sports,Europe,Email,Unauthorized purchase
+R0536,O41952,C3065,Jacket,Apparel,Europe,Organic Search,Poor product quality
+R0537,O77975,C7035,Dress,Apparel,South America,Referral,Item defective or damaged
+R0538,O44177,C8953,Lipstick,Beauty,Asia,Email,Poor product quality
+R0539,O68392,C6738,Perfume,Beauty,South America,Email,Found better price elsewhere
+R0540,O15231,C5914,Lipstick,Beauty,North America,Referral,Found better price elsewhere
+R0541,O41158,C7965,Jacket,Apparel,North America,Referral,Item defective or damaged
+R0542,O94207,C8631,Perfume,Beauty,North America,Social Media,Product no longer needed
+R0543,O24792,C4948,Science Textbook,Books,Europe,Referral,Poor product quality
+R0544,O34115,C3717,Dress,Apparel,Europe,Paid Ads,Wrong item sent
+R0545,O61469,C4321,Dumbbells,Sports,South America,Referral,Changed mind
+R0546,O56087,C9015,Yoga Mat,Sports,North America,Referral,Found better price elsewhere
+R0547,O53687,C6150,Sneakers,Apparel,Australia,Paid Ads,Found better price elsewhere
+R0548,O71482,C4066,Jacket,Apparel,South America,Social Media,Product did not match description
+R0549,O27928,C7737,Dumbbells,Sports,South America,Social Media,Changed mind
+R0550,O19225,C6058,T-shirt,Apparel,Asia,Paid Ads,Item defective or damaged
+R0551,O21355,C3098,Cookware Set,Home & Kitchen,South America,Social Media,Product did not match description
+R0552,O56238,C7780,Vacuum Cleaner,Home & Kitchen,Australia,Organic Search,Item arrived late
+R0553,O11869,C3971,Smartphone,Electronics,Australia,Social Media,Changed mind
+R0554,O73133,C1542,Yoga Mat,Sports,North America,Social Media,Unauthorized purchase
+R0555,O23532,C8880,Biography,Books,South America,Paid Ads,Poor product quality
+R0556,O13774,C3919,Jacket,Apparel,South America,Social Media,Product did not match description
+R0557,O88600,C5078,Cookbook,Books,Australia,Email,Product did not match description
+R0558,O89701,C4937,Jacket,Apparel,South America,Paid Ads,Item defective or damaged
+R0559,O11138,C2953,Jeans,Apparel,Europe,Referral,Wrong item sent
+R0560,O89761,C8452,Dress,Apparel,Australia,Referral,Poor product quality
+R0561,O39753,C6588,Blender,Home & Kitchen,Asia,Organic Search,Wrong item sent
+R0562,O57089,C3701,Jacket,Apparel,Europe,Paid Ads,Item arrived late
+R0563,O63359,C3876,Science Textbook,Books,South America,Referral,Size or fit issue
+R0564,O61833,C7683,Science Textbook,Books,South America,Email,Poor product quality
+R0565,O89769,C7208,Cookbook,Books,South America,Referral,Unauthorized purchase
+R0566,O93325,C9080,Vacuum Cleaner,Home & Kitchen,North America,Organic Search,Product did not match description
+R0567,O81061,C8992,Jacket,Apparel,Europe,Referral,Poor product quality
+R0568,O44621,C9672,Bluetooth Speaker,Electronics,North America,Organic Search,Product did not match description
+R0569,O46735,C8507,Vacuum Cleaner,Home & Kitchen,Asia,Referral,Poor product quality
+R0570,O21325,C5450,Tennis Racket,Sports,Europe,Social Media,Product did not match description
+R0571,O65948,C3944,Blender,Home & Kitchen,Asia,Email,Wrong item sent
+R0572,O39842,C8379,Sneakers,Apparel,North America,Email,Found better price elsewhere
+R0573,O86613,C2513,Tablet,Electronics,Asia,Organic Search,Unauthorized purchase
+R0574,O87522,C7696,Toaster,Home & Kitchen,Australia,Social Media,Item defective or damaged
+R0575,O31315,C6369,Lipstick,Beauty,Australia,Organic Search,Unauthorized purchase
+R0576,O66733,C7943,Bluetooth Speaker,Electronics,South America,Referral,Unauthorized purchase
+R0577,O91466,C9258,Jeans,Apparel,Asia,Referral,Poor product quality
+R0578,O12238,C6012,Jacket,Apparel,Europe,Email,Changed mind
+R0579,O31752,C4126,Eyeliner,Beauty,South America,Email,Item defective or damaged
+R0580,O65973,C3996,Blender,Home & Kitchen,Australia,Social Media,Size or fit issue
+R0581,O36330,C1852,Tennis Racket,Sports,Europe,Paid Ads,Item defective or damaged
+R0582,O90784,C5399,Biography,Books,Asia,Organic Search,Unauthorized purchase
+R0583,O74102,C6841,Dress,Apparel,Asia,Social Media,Item arrived late
+R0584,O42245,C7988,Eyeliner,Beauty,South America,Referral,Poor product quality
+R0585,O36739,C1938,Cookbook,Books,South America,Organic Search,Wrong item sent
+R0586,O27516,C1694,Cookware Set,Home & Kitchen,North America,Social Media,Product did not match description
+R0587,O76099,C7990,Face Cream,Beauty,North America,Organic Search,Product no longer needed
+R0588,O11563,C2330,Running Shoes,Sports,South America,Paid Ads,Product no longer needed
+R0589,O58639,C2933,Tablet,Electronics,South America,Paid Ads,Item arrived late
+R0590,O93188,C2505,Headphones,Electronics,Europe,Referral,Product no longer needed
+R0591,O23980,C6449,Cookbook,Books,Australia,Social Media,Unauthorized purchase
+R0592,O63764,C7696,Mystery Novel,Books,Australia,Social Media,Wrong item sent
+R0593,O90774,C1172,Blender,Home & Kitchen,South America,Email,Found better price elsewhere
+R0594,O77937,C3859,Toaster,Home & Kitchen,North America,Social Media,Size or fit issue
+R0595,O40140,C5060,Smartphone,Electronics,South America,Organic Search,Size or fit issue
+R0596,O34791,C4180,Bluetooth Speaker,Electronics,South America,Paid Ads,Size or fit issue
+R0597,O68907,C2055,Cookbook,Books,South America,Social Media,Poor product quality
+R0598,O53942,C4447,Microwave,Home & Kitchen,Australia,Referral,Item defective or damaged
+R0599,O18621,C3055,Microwave,Home & Kitchen,North America,Organic Search,Size or fit issue
+R0600,O52950,C8259,Lipstick,Beauty,Australia,Referral,Product did not match description
+R0601,O83791,C5725,Face Cream,Beauty,North America,Paid Ads,Unauthorized purchase
+R0602,O10574,C6486,Basketball,Sports,North America,Social Media,Found better price elsewhere
+R0603,O78976,C2275,Fantasy Fiction,Books,South America,Organic Search,Item arrived late
+R0604,O35008,C9044,Mystery Novel,Books,North America,Paid Ads,Found better price elsewhere
+R0605,O22166,C6504,Vacuum Cleaner,Home & Kitchen,Australia,Referral,Wrong item sent
+R0606,O10620,C4875,Cookbook,Books,Australia,Paid Ads,Size or fit issue
+R0607,O84734,C3311,Eyeliner,Beauty,North America,Social Media,Item defective or damaged
+R0608,O73531,C3901,Tennis Racket,Sports,Europe,Organic Search,Item defective or damaged
+R0609,O19255,C1951,Eyeliner,Beauty,Europe,Referral,Unauthorized purchase
+R0610,O78566,C8123,Biography,Books,North America,Referral,Poor product quality
+R0611,O22818,C1169,Science Textbook,Books,Europe,Social Media,Wrong item sent
+R0612,O36398,C4343,Lipstick,Beauty,North America,Paid Ads,Found better price elsewhere
+R0613,O28346,C1161,Science Textbook,Books,Asia,Referral,Poor product quality
+R0614,O90248,C5241,Yoga Mat,Sports,Asia,Organic Search,Found better price elsewhere
+R0615,O18070,C8754,Vacuum Cleaner,Home & Kitchen,South America,Organic Search,Product no longer needed
+R0616,O97635,C7870,Running Shoes,Sports,Australia,Paid Ads,Size or fit issue
+R0617,O20652,C9513,Cookware Set,Home & Kitchen,Australia,Paid Ads,Product no longer needed
+R0618,O88280,C6608,Toaster,Home & Kitchen,Asia,Social Media,Poor product quality
+R0619,O32476,C1180,Dress,Apparel,Asia,Referral,Product no longer needed
+R0620,O35991,C2812,Dumbbells,Sports,Australia,Email,Item defective or damaged
+R0621,O88154,C5689,Science Textbook,Books,Europe,Organic Search,Wrong item sent
+R0622,O61544,C4296,Jeans,Apparel,South America,Email,Product no longer needed
+R0623,O70485,C3402,Dumbbells,Sports,North America,Email,Changed mind
+R0624,O77325,C7461,Eyeliner,Beauty,North America,Referral,Wrong item sent
+R0625,O34441,C9379,Headphones,Electronics,North America,Paid Ads,Wrong item sent
+R0626,O66198,C2211,Laptop,Electronics,South America,Paid Ads,Item arrived late
+R0627,O21001,C2894,Tennis Racket,Sports,Australia,Paid Ads,Unauthorized purchase
+R0628,O84451,C7548,Cookware Set,Home & Kitchen,Europe,Paid Ads,Unauthorized purchase
+R0629,O42521,C1776,Tennis Racket,Sports,Europe,Social Media,Found better price elsewhere
+R0630,O93141,C7321,Sneakers,Apparel,North America,Organic Search,Product no longer needed
+R0631,O56950,C1929,Face Cream,Beauty,North America,Social Media,Product did not match description
+R0632,O29517,C9397,Headphones,Electronics,Europe,Organic Search,Poor product quality
+R0633,O85627,C9976,Dumbbells,Sports,Australia,Social Media,Item arrived late
+R0634,O39559,C6549,Laptop,Electronics,South America,Paid Ads,Product did not match description
+R0635,O97265,C8544,Cookbook,Books,Asia,Email,Product did not match description
+R0636,O67657,C7328,Dumbbells,Sports,South America,Email,Wrong item sent
+R0637,O11688,C9622,Face Cream,Beauty,Australia,Organic Search,Changed mind
+R0638,O10716,C6784,T-shirt,Apparel,Europe,Referral,Changed mind
+R0639,O66360,C4818,Fantasy Fiction,Books,Europe,Organic Search,Found better price elsewhere
+R0640,O62709,C1944,Mystery Novel,Books,South America,Email,Item arrived late
+R0641,O40565,C2860,Eyeliner,Beauty,Asia,Referral,Poor product quality
+R0642,O76829,C1051,Face Cream,Beauty,Europe,Paid Ads,Unauthorized purchase
+R0643,O70765,C2853,Foundation,Beauty,Asia,Referral,Wrong item sent
+R0644,O75784,C9869,Jeans,Apparel,Europe,Organic Search,Unauthorized purchase
+R0645,O43066,C7451,Jeans,Apparel,Europe,Email,Size or fit issue
+R0646,O31387,C7485,Foundation,Beauty,Australia,Referral,Product did not match description
+R0647,O36501,C4711,Face Cream,Beauty,South America,Social Media,Found better price elsewhere
+R0648,O65814,C1159,Mystery Novel,Books,South America,Referral,Item arrived late
+R0649,O85199,C2981,Tennis Racket,Sports,South America,Email,Poor product quality
+R0650,O85336,C2981,Foundation,Beauty,South America,Referral,Item arrived late
+R0651,O86630,C6082,Cookware Set,Home & Kitchen,Europe,Email,Poor product quality
+R0652,O20930,C8903,Microwave,Home & Kitchen,Europe,Email,Changed mind
+R0653,O99001,C9213,Perfume,Beauty,Asia,Email,Wrong item sent
+R0654,O24065,C3845,Microwave,Home & Kitchen,North America,Organic Search,Unauthorized purchase
+R0655,O44410,C3020,Mystery Novel,Books,Australia,Organic Search,Product did not match description
+R0656,O74899,C6147,Eyeliner,Beauty,Europe,Paid Ads,Poor product quality
+R0657,O73575,C7426,Bluetooth Speaker,Electronics,Asia,Social Media,Found better price elsewhere
+R0658,O34065,C5690,Yoga Mat,Sports,North America,Organic Search,Wrong item sent
+R0659,O27286,C9482,Jacket,Apparel,Asia,Email,Size or fit issue
+R0660,O53213,C1159,Science Textbook,Books,Australia,Social Media,Wrong item sent
+R0661,O82300,C5182,Smartphone,Electronics,Asia,Paid Ads,Poor product quality
+R0662,O25991,C1254,Bluetooth Speaker,Electronics,North America,Referral,Unauthorized purchase
+R0663,O38468,C3205,Eyeliner,Beauty,Australia,Organic Search,Poor product quality
+R0664,O36580,C8104,Mystery Novel,Books,North America,Email,Product did not match description
+R0665,O59975,C8512,Cookbook,Books,Europe,Referral,Poor product quality
+R0666,O45003,C3507,Foundation,Beauty,Asia,Organic Search,Item defective or damaged
+R0667,O34291,C6042,Jeans,Apparel,Asia,Email,Size or fit issue
+R0668,O99522,C7246,Dumbbells,Sports,North America,Email,Product no longer needed
+R0669,O12119,C6033,Face Cream,Beauty,Australia,Referral,Found better price elsewhere
+R0670,O49371,C2593,Running Shoes,Sports,Australia,Paid Ads,Product did not match description
+R0671,O39892,C3529,Toaster,Home & Kitchen,Europe,Email,Found better price elsewhere
+R0672,O26368,C5440,Dumbbells,Sports,North America,Referral,Wrong item sent
+R0673,O14082,C9839,Tablet,Electronics,South America,Paid Ads,Item defective or damaged
+R0674,O75609,C5958,Face Cream,Beauty,Australia,Referral,Size or fit issue
+R0675,O20352,C5376,T-shirt,Apparel,North America,Email,Product did not match description
+R0676,O56040,C5084,Eyeliner,Beauty,North America,Email,Unauthorized purchase
+R0677,O46825,C2118,Smartphone,Electronics,South America,Organic Search,Item defective or damaged
+R0678,O52445,C9656,Cookbook,Books,South America,Paid Ads,Poor product quality
+R0679,O56355,C4724,T-shirt,Apparel,North America,Organic Search,Item arrived late
+R0680,O77520,C3421,Bluetooth Speaker,Electronics,Asia,Paid Ads,Found better price elsewhere
+R0681,O90778,C2364,Jacket,Apparel,Europe,Organic Search,Product did not match description
+R0682,O11306,C6842,Foundation,Beauty,Europe,Email,Size or fit issue
+R0683,O42033,C3202,Microwave,Home & Kitchen,South America,Paid Ads,Unauthorized purchase
+R0684,O54891,C5604,Tennis Racket,Sports,North America,Social Media,Wrong item sent
+R0685,O94355,C1613,Sneakers,Apparel,Australia,Referral,Item arrived late
+R0686,O61360,C3510,Blender,Home & Kitchen,Europe,Organic Search,Item arrived late
+R0687,O20411,C9530,Dumbbells,Sports,Asia,Paid Ads,Size or fit issue
+R0688,O52212,C3650,T-shirt,Apparel,North America,Email,Changed mind
+R0689,O90896,C7742,Perfume,Beauty,Europe,Paid Ads,Poor product quality
+R0690,O93262,C7455,Jeans,Apparel,Europe,Paid Ads,Product no longer needed
+R0691,O60213,C5831,Yoga Mat,Sports,Europe,Email,Found better price elsewhere
+R0692,O21727,C8769,Mystery Novel,Books,Europe,Social Media,Found better price elsewhere
+R0693,O23123,C2748,Basketball,Sports,South America,Organic Search,Found better price elsewhere
+R0694,O78213,C1963,Cookbook,Books,Australia,Paid Ads,Changed mind
+R0695,O56021,C2646,Jacket,Apparel,Europe,Referral,Poor product quality
+R0696,O66156,C5732,T-shirt,Apparel,North America,Paid Ads,Unauthorized purchase
+R0697,O13708,C1926,Lipstick,Beauty,Europe,Referral,Product did not match description
+R0698,O24453,C6706,Cookware Set,Home & Kitchen,Europe,Social Media,Changed mind
+R0699,O15873,C6840,Jacket,Apparel,Asia,Social Media,Product no longer needed
+R0700,O80968,C4704,Sneakers,Apparel,North America,Paid Ads,Changed mind
+R0701,O40110,C8012,Cookbook,Books,Europe,Referral,Item arrived late
+R0702,O46555,C8940,Foundation,Beauty,Asia,Email,Wrong item sent
+R0703,O23325,C1151,Tablet,Electronics,Europe,Email,Product did not match description
+R0704,O42078,C9177,Toaster,Home & Kitchen,Asia,Email,Changed mind
+R0705,O60869,C5228,Headphones,Electronics,North America,Social Media,Item defective or damaged
+R0706,O43157,C4882,Perfume,Beauty,Europe,Social Media,Poor product quality
+R0707,O74735,C9813,Biography,Books,South America,Social Media,Wrong item sent
+R0708,O70015,C1799,Mystery Novel,Books,Europe,Organic Search,Item defective or damaged
+R0709,O21692,C7097,Dumbbells,Sports,Australia,Referral,Unauthorized purchase
+R0710,O98144,C2998,Mystery Novel,Books,Europe,Social Media,Size or fit issue
+R0711,O76416,C7833,Perfume,Beauty,North America,Paid Ads,Item arrived late
+R0712,O25639,C7539,Perfume,Beauty,South America,Organic Search,Product did not match description
+R0713,O27406,C3458,Basketball,Sports,Australia,Email,Item defective or damaged
+R0714,O73872,C7563,Cookbook,Books,Asia,Email,Product did not match description
+R0715,O60306,C9902,Toaster,Home & Kitchen,Australia,Organic Search,Wrong item sent
+R0716,O21723,C5925,Cookbook,Books,Europe,Referral,Poor product quality
+R0717,O25059,C5735,Lipstick,Beauty,Australia,Organic Search,Wrong item sent
+R0718,O38112,C1326,Vacuum Cleaner,Home & Kitchen,North America,Social Media,Size or fit issue
+R0719,O56398,C6654,Toaster,Home & Kitchen,Australia,Referral,Item defective or damaged
+R0720,O59921,C6483,Running Shoes,Sports,South America,Email,Product no longer needed
+R0721,O31907,C4815,Vacuum Cleaner,Home & Kitchen,Australia,Paid Ads,Wrong item sent
+R0722,O76290,C3938,Tennis Racket,Sports,Asia,Referral,Poor product quality
+R0723,O38466,C5696,Yoga Mat,Sports,Asia,Email,Item arrived late
+R0724,O83838,C6080,Fantasy Fiction,Books,Australia,Referral,Product no longer needed
+R0725,O31246,C3780,Perfume,Beauty,Europe,Paid Ads,Item arrived late
+R0726,O56716,C1149,Blender,Home & Kitchen,Australia,Email,Unauthorized purchase
+R0727,O50959,C9428,Tennis Racket,Sports,South America,Organic Search,Size or fit issue
+R0728,O87563,C9644,Cookware Set,Home & Kitchen,Europe,Social Media,Product did not match description
+R0729,O18640,C4027,Headphones,Electronics,South America,Paid Ads,Product no longer needed
+R0730,O57313,C1228,Eyeliner,Beauty,South America,Paid Ads,Size or fit issue
+R0731,O78552,C8277,Jeans,Apparel,North America,Social Media,Size or fit issue
+R0732,O79929,C2758,Fantasy Fiction,Books,Australia,Paid Ads,Size or fit issue
+R0733,O40631,C4377,Science Textbook,Books,Asia,Social Media,Product did not match description
+R0734,O62559,C5456,Basketball,Sports,North America,Social Media,Item arrived late
+R0735,O31755,C5119,Smartphone,Electronics,Australia,Email,Found better price elsewhere
+R0736,O97219,C9702,Headphones,Electronics,Australia,Referral,Found better price elsewhere
+R0737,O41989,C5949,T-shirt,Apparel,South America,Email,Item defective or damaged
+R0738,O54866,C8516,Cookbook,Books,North America,Social Media,Item defective or damaged
+R0739,O25669,C5720,Eyeliner,Beauty,Australia,Social Media,Product no longer needed
+R0740,O29134,C1740,Vacuum Cleaner,Home & Kitchen,Australia,Organic Search,Item arrived late
+R0741,O23507,C9625,Bluetooth Speaker,Electronics,Australia,Organic Search,Product no longer needed
+R0742,O57166,C7705,Lipstick,Beauty,South America,Organic Search,Changed mind
+R0743,O54144,C3528,Yoga Mat,Sports,North America,Email,Poor product quality
+R0744,O72332,C9239,T-shirt,Apparel,South America,Referral,Size or fit issue
+R0745,O63678,C3273,Toaster,Home & Kitchen,Asia,Paid Ads,Found better price elsewhere
+R0746,O67312,C4432,Mystery Novel,Books,Asia,Social Media,Product did not match description
+R0747,O28136,C4968,Eyeliner,Beauty,Australia,Social Media,Product no longer needed
+R0748,O46536,C7332,Blender,Home & Kitchen,Europe,Social Media,Product did not match description
+R0749,O55793,C5941,Laptop,Electronics,Europe,Paid Ads,Unauthorized purchase
+R0750,O53971,C9419,Toaster,Home & Kitchen,Asia,Email,Item defective or damaged
+R0751,O75809,C1571,Laptop,Electronics,Asia,Paid Ads,Wrong item sent
+R0752,O66459,C9053,Sneakers,Apparel,South America,Organic Search,Changed mind
+R0753,O15197,C3402,Toaster,Home & Kitchen,Australia,Referral,Size or fit issue
+R0754,O12769,C7005,Jeans,Apparel,North America,Paid Ads,Size or fit issue
+R0755,O58637,C7967,Cookware Set,Home & Kitchen,North America,Paid Ads,Item arrived late
+R0756,O19163,C5304,Dress,Apparel,Australia,Organic Search,Product no longer needed
+R0757,O78467,C1445,Eyeliner,Beauty,Australia,Paid Ads,Changed mind
+R0758,O75619,C1929,Bluetooth Speaker,Electronics,South America,Email,Product no longer needed
+R0759,O11971,C6750,Toaster,Home & Kitchen,Australia,Referral,Found better price elsewhere
+R0760,O98406,C4795,Tennis Racket,Sports,South America,Social Media,Unauthorized purchase
+R0761,O31525,C4269,Basketball,Sports,Asia,Paid Ads,Found better price elsewhere
+R0762,O59266,C9864,Jacket,Apparel,South America,Social Media,Item defective or damaged
+R0763,O70577,C1426,Laptop,Electronics,Australia,Paid Ads,Unauthorized purchase
+R0764,O83135,C5598,Foundation,Beauty,North America,Social Media,Wrong item sent
+R0765,O50276,C9068,Smartphone,Electronics,Europe,Paid Ads,Item defective or damaged
+R0766,O71472,C9870,Laptop,Electronics,South America,Social Media,Size or fit issue
+R0767,O11522,C9723,Smartphone,Electronics,Asia,Referral,Poor product quality
+R0768,O91847,C9502,Fantasy Fiction,Books,Asia,Organic Search,Product no longer needed
+R0769,O75322,C7583,Tablet,Electronics,Asia,Organic Search,Item arrived late
+R0770,O16765,C8368,Dumbbells,Sports,Asia,Organic Search,Wrong item sent
+R0771,O56748,C9507,T-shirt,Apparel,South America,Paid Ads,Item arrived late
+R0772,O88885,C4363,Toaster,Home & Kitchen,Asia,Organic Search,Unauthorized purchase
+R0773,O67624,C1865,Perfume,Beauty,North America,Email,Changed mind
+R0774,O13724,C6304,Tennis Racket,Sports,Europe,Organic Search,Item arrived late
+R0775,O24191,C6045,T-shirt,Apparel,South America,Paid Ads,Changed mind
+R0776,O36543,C9115,Yoga Mat,Sports,North America,Paid Ads,Wrong item sent
+R0777,O95758,C8134,Lipstick,Beauty,North America,Organic Search,Item arrived late
+R0778,O82173,C5519,Fantasy Fiction,Books,Europe,Organic Search,Unauthorized purchase
+R0779,O85955,C9855,Dumbbells,Sports,Australia,Email,Changed mind
+R0780,O51769,C5608,Face Cream,Beauty,Australia,Referral,Found better price elsewhere
+R0781,O68783,C9973,Toaster,Home & Kitchen,Europe,Organic Search,Poor product quality
+R0782,O21673,C1657,Laptop,Electronics,Europe,Social Media,Found better price elsewhere
+R0783,O86300,C8748,Headphones,Electronics,South America,Paid Ads,Wrong item sent
+R0784,O79056,C7683,Cookbook,Books,Australia,Email,Poor product quality
+R0785,O11769,C7551,Bluetooth Speaker,Electronics,South America,Referral,Wrong item sent
+R0786,O32421,C2284,Cookware Set,Home & Kitchen,Asia,Organic Search,Product did not match description
+R0787,O66180,C8337,Foundation,Beauty,South America,Email,Product no longer needed
+R0788,O97927,C5605,Dress,Apparel,South America,Email,Product no longer needed
+R0789,O40050,C2359,Foundation,Beauty,Europe,Organic Search,Wrong item sent
+R0790,O40581,C9557,Jacket,Apparel,South America,Referral,Changed mind
+R0791,O40184,C8627,Science Textbook,Books,Europe,Referral,Item defective or damaged
+R0792,O94432,C8415,Running Shoes,Sports,Europe,Paid Ads,Product did not match description
+R0793,O87702,C7380,Jacket,Apparel,Australia,Social Media,Item arrived late
+R0794,O55128,C7364,Laptop,Electronics,Asia,Email,Poor product quality
+R0795,O87012,C1848,Fantasy Fiction,Books,Asia,Email,Found better price elsewhere
+R0796,O45100,C7187,Science Textbook,Books,South America,Organic Search,Unauthorized purchase
+R0797,O34700,C5894,Science Textbook,Books,Australia,Paid Ads,Poor product quality
+R0798,O68158,C9834,Microwave,Home & Kitchen,Europe,Social Media,Size or fit issue
+R0799,O43563,C2082,Cookbook,Books,Asia,Paid Ads,Poor product quality
+R0800,O75333,C1623,Cookbook,Books,Australia,Paid Ads,Size or fit issue
+R0801,O49609,C4661,Blender,Home & Kitchen,Europe,Email,Product no longer needed
+R0802,O16904,C7979,Foundation,Beauty,South America,Referral,Found better price elsewhere
+R0803,O80692,C3359,Smartphone,Electronics,Asia,Paid Ads,Changed mind
+R0804,O81360,C9675,Vacuum Cleaner,Home & Kitchen,Asia,Social Media,Poor product quality
+R0805,O14176,C5288,Biography,Books,Europe,Paid Ads,Item arrived late
+R0806,O91474,C7400,Tennis Racket,Sports,Asia,Paid Ads,Item defective or damaged
+R0807,O81693,C3100,Jeans,Apparel,Asia,Paid Ads,Found better price elsewhere
+R0808,O40525,C5255,Eyeliner,Beauty,North America,Email,Item defective or damaged
+R0809,O52188,C8861,Dumbbells,Sports,Europe,Social Media,Product no longer needed
+R0810,O73738,C5070,Vacuum Cleaner,Home & Kitchen,Europe,Referral,Found better price elsewhere
+R0811,O34537,C4907,Dumbbells,Sports,Asia,Organic Search,Product no longer needed
+R0812,O18616,C7069,Microwave,Home & Kitchen,Asia,Social Media,Product did not match description
+R0813,O83472,C6242,Running Shoes,Sports,North America,Email,Changed mind
+R0814,O90914,C2712,Tablet,Electronics,Australia,Email,Poor product quality
+R0815,O59980,C7841,Smartphone,Electronics,Asia,Referral,Item defective or damaged
+R0816,O32918,C9935,Blender,Home & Kitchen,South America,Paid Ads,Item defective or damaged
+R0817,O74535,C1655,Blender,Home & Kitchen,South America,Referral,Product did not match description
+R0818,O34339,C8536,Foundation,Beauty,Europe,Email,Item arrived late
+R0819,O47716,C2735,Perfume,Beauty,Europe,Social Media,Size or fit issue
+R0820,O73697,C9747,Laptop,Electronics,Australia,Email,Poor product quality
+R0821,O91445,C3753,Sneakers,Apparel,South America,Email,Product no longer needed
+R0822,O41990,C9281,Jeans,Apparel,Australia,Paid Ads,Item defective or damaged
+R0823,O65569,C7914,Lipstick,Beauty,Australia,Organic Search,Item defective or damaged
+R0824,O91332,C7700,Science Textbook,Books,Europe,Organic Search,Poor product quality
+R0825,O31485,C6391,Microwave,Home & Kitchen,North America,Referral,Changed mind
+R0826,O87912,C6418,Running Shoes,Sports,Australia,Email,Found better price elsewhere
+R0827,O96863,C7422,T-shirt,Apparel,Europe,Paid Ads,Found better price elsewhere
+R0828,O48258,C3576,Running Shoes,Sports,North America,Paid Ads,Item defective or damaged
+R0829,O62596,C7984,Sneakers,Apparel,South America,Paid Ads,Product did not match description
+R0830,O34876,C3339,Headphones,Electronics,North America,Paid Ads,Size or fit issue
+R0831,O35498,C1672,Biography,Books,South America,Organic Search,Size or fit issue
+R0832,O73696,C4430,Blender,Home & Kitchen,Australia,Referral,Unauthorized purchase
+R0833,O19988,C6021,Blender,Home & Kitchen,North America,Referral,Product did not match description
+R0834,O73131,C8413,T-shirt,Apparel,Europe,Social Media,Product no longer needed
+R0835,O67408,C5880,Sneakers,Apparel,North America,Social Media,Product did not match description
+R0836,O82909,C2695,Jeans,Apparel,Europe,Social Media,Wrong item sent
+R0837,O60669,C7307,Basketball,Sports,Asia,Paid Ads,Found better price elsewhere
+R0838,O19456,C6647,Perfume,Beauty,North America,Paid Ads,Item defective or damaged
+R0839,O21329,C5556,Smartphone,Electronics,North America,Paid Ads,Item defective or damaged
+R0840,O62396,C9114,Eyeliner,Beauty,Australia,Organic Search,Changed mind
+R0841,O46209,C7887,Running Shoes,Sports,North America,Email,Item arrived late
+R0842,O40167,C9265,Cookware Set,Home & Kitchen,South America,Social Media,Item arrived late
+R0843,O88128,C5775,Smartphone,Electronics,South America,Organic Search,Item defective or damaged
+R0844,O25313,C9960,Fantasy Fiction,Books,South America,Email,Wrong item sent
+R0845,O16082,C9680,Foundation,Beauty,Asia,Email,Product no longer needed
+R0846,O94749,C5533,Science Textbook,Books,North America,Social Media,Unauthorized purchase
+R0847,O79014,C8555,Dress,Apparel,Europe,Organic Search,Unauthorized purchase
+R0848,O47461,C3848,Dumbbells,Sports,Europe,Referral,Product no longer needed
+R0849,O50487,C2682,Cookware Set,Home & Kitchen,North America,Organic Search,Poor product quality
+R0850,O25594,C1581,Tablet,Electronics,South America,Email,Product no longer needed
+R0851,O42547,C9970,Microwave,Home & Kitchen,Europe,Email,Item defective or damaged
+R0852,O79142,C6449,Toaster,Home & Kitchen,Australia,Organic Search,Found better price elsewhere
+R0853,O69769,C8370,Dress,Apparel,North America,Email,Product did not match description
+R0854,O71976,C6090,Vacuum Cleaner,Home & Kitchen,North America,Organic Search,Poor product quality
+R0855,O88175,C6679,Biography,Books,Australia,Email,Wrong item sent
+R0856,O18460,C8441,Smartphone,Electronics,Australia,Organic Search,Item defective or damaged
+R0857,O56150,C6194,Sneakers,Apparel,South America,Organic Search,Product did not match description
+R0858,O39864,C3084,Toaster,Home & Kitchen,Europe,Email,Product did not match description
+R0859,O60498,C5811,Science Textbook,Books,Australia,Email,Unauthorized purchase
+R0860,O74323,C6251,Dumbbells,Sports,South America,Social Media,Poor product quality
+R0861,O89395,C7984,Yoga Mat,Sports,North America,Social Media,Item arrived late
+R0862,O19757,C3858,Microwave,Home & Kitchen,Australia,Organic Search,Poor product quality
+R0863,O83668,C8900,Basketball,Sports,Asia,Social Media,Item defective or damaged
+R0864,O69385,C6237,Dumbbells,Sports,North America,Referral,Size or fit issue
+R0865,O52977,C4092,Foundation,Beauty,Asia,Referral,Product did not match description
+R0866,O49462,C4001,Lipstick,Beauty,South America,Social Media,Item arrived late
+R0867,O19954,C8233,Cookware Set,Home & Kitchen,South America,Referral,Item defective or damaged
+R0868,O89244,C6291,Foundation,Beauty,South America,Social Media,Product no longer needed
+R0869,O60583,C2216,Foundation,Beauty,South America,Social Media,Product did not match description
+R0870,O94346,C3886,Laptop,Electronics,Asia,Paid Ads,Item arrived late
+R0871,O62998,C7438,Science Textbook,Books,Europe,Email,Product no longer needed
+R0872,O85624,C1731,Dress,Apparel,Australia,Email,Wrong item sent
+R0873,O58873,C9568,Jacket,Apparel,South America,Organic Search,Size or fit issue
+R0874,O31460,C4117,Eyeliner,Beauty,Europe,Email,Found better price elsewhere
+R0875,O87982,C8379,Mystery Novel,Books,South America,Social Media,Item arrived late
+R0876,O68936,C3970,Basketball,Sports,Asia,Paid Ads,Item arrived late
+R0877,O38741,C1762,Fantasy Fiction,Books,North America,Social Media,Item defective or damaged
+R0878,O64635,C9108,Vacuum Cleaner,Home & Kitchen,South America,Paid Ads,Product no longer needed
+R0879,O17065,C7985,Face Cream,Beauty,Asia,Email,Product no longer needed
+R0880,O55810,C4836,Cookware Set,Home & Kitchen,Europe,Paid Ads,Item defective or damaged
+R0881,O41434,C1418,Dress,Apparel,Asia,Social Media,Product did not match description
+R0882,O65113,C2749,Running Shoes,Sports,Asia,Referral,Item arrived late
+R0883,O46124,C6307,Headphones,Electronics,North America,Social Media,Product did not match description
+R0884,O75877,C3097,Basketball,Sports,Europe,Organic Search,Found better price elsewhere
+R0885,O29301,C4873,Blender,Home & Kitchen,North America,Organic Search,Item defective or damaged
+R0886,O39172,C8539,Perfume,Beauty,North America,Organic Search,Item defective or damaged
+R0887,O27578,C7124,Smartphone,Electronics,Asia,Social Media,Found better price elsewhere
+R0888,O57232,C9526,Microwave,Home & Kitchen,Europe,Referral,Item arrived late
+R0889,O79472,C6854,Tennis Racket,Sports,Europe,Social Media,Found better price elsewhere
+R0890,O98330,C7107,Bluetooth Speaker,Electronics,North America,Organic Search,Product no longer needed
+R0891,O80207,C4166,Foundation,Beauty,Australia,Social Media,Unauthorized purchase
+R0892,O57081,C4959,Mystery Novel,Books,South America,Paid Ads,Changed mind
+R0893,O26149,C7332,Lipstick,Beauty,South America,Referral,Changed mind
+R0894,O76859,C6483,T-shirt,Apparel,South America,Organic Search,Poor product quality
+R0895,O95309,C2803,Toaster,Home & Kitchen,Asia,Organic Search,Wrong item sent
+R0896,O91916,C9833,Lipstick,Beauty,Europe,Paid Ads,Found better price elsewhere
+R0897,O64807,C5739,Perfume,Beauty,North America,Referral,Item arrived late
+R0898,O37118,C3197,T-shirt,Apparel,Europe,Paid Ads,Item defective or damaged
+R0899,O85839,C8106,Yoga Mat,Sports,North America,Referral,Wrong item sent
+R0900,O39031,C7431,Perfume,Beauty,Europe,Email,Wrong item sent
+R0901,O31943,C3549,Vacuum Cleaner,Home & Kitchen,Europe,Referral,Item defective or damaged
+R0902,O66072,C5114,Yoga Mat,Sports,Australia,Social Media,Item arrived late
+R0903,O21545,C2594,Basketball,Sports,Australia,Paid Ads,Item arrived late
+R0904,O59597,C6638,Yoga Mat,Sports,Australia,Referral,Found better price elsewhere
+R0905,O88562,C2132,Jeans,Apparel,Europe,Referral,Product did not match description
+R0906,O83369,C9664,Smartphone,Electronics,Australia,Organic Search,Product no longer needed
+R0907,O84037,C2485,Perfume,Beauty,Europe,Referral,Item defective or damaged
+R0908,O64393,C6393,Face Cream,Beauty,North America,Social Media,Wrong item sent
+R0909,O18983,C9737,Yoga Mat,Sports,South America,Social Media,Changed mind
+R0910,O77222,C6727,Toaster,Home & Kitchen,South America,Email,Size or fit issue
+R0911,O19991,C9387,Fantasy Fiction,Books,Australia,Paid Ads,Item arrived late
+R0912,O96698,C2891,Cookware Set,Home & Kitchen,South America,Organic Search,Size or fit issue
+R0913,O84544,C8162,Cookbook,Books,South America,Email,Found better price elsewhere
+R0914,O21283,C5993,Tennis Racket,Sports,Australia,Referral,Unauthorized purchase
+R0915,O78114,C5071,Laptop,Electronics,South America,Social Media,Product no longer needed
+R0916,O88787,C3835,Science Textbook,Books,South America,Social Media,Size or fit issue
+R0917,O11285,C3473,Dress,Apparel,Australia,Social Media,Unauthorized purchase
+R0918,O54366,C9350,Science Textbook,Books,Australia,Social Media,Item arrived late
+R0919,O59255,C9570,Dress,Apparel,South America,Paid Ads,Product did not match description
+R0920,O16786,C5471,Cookware Set,Home & Kitchen,North America,Paid Ads,Changed mind
+R0921,O72656,C1513,Blender,Home & Kitchen,Australia,Paid Ads,Item arrived late
+R0922,O79159,C2271,Fantasy Fiction,Books,Asia,Paid Ads,Found better price elsewhere
+R0923,O32765,C9213,Perfume,Beauty,South America,Paid Ads,Product did not match description
+R0924,O49629,C2225,Biography,Books,Asia,Paid Ads,Item arrived late
+R0925,O54344,C7669,Toaster,Home & Kitchen,Europe,Social Media,Item arrived late
+R0926,O84173,C2506,Vacuum Cleaner,Home & Kitchen,Europe,Email,Unauthorized purchase
+R0927,O56310,C4751,Microwave,Home & Kitchen,Asia,Paid Ads,Product no longer needed
+R0928,O94414,C7783,Basketball,Sports,Europe,Paid Ads,Changed mind
+R0929,O92389,C1419,Basketball,Sports,Australia,Referral,Changed mind
+R0930,O68100,C7937,Cookware Set,Home & Kitchen,South America,Email,Product no longer needed
+R0931,O18821,C6867,Basketball,Sports,South America,Organic Search,Size or fit issue
+R0932,O94908,C3175,Cookbook,Books,Asia,Social Media,Poor product quality
+R0933,O73906,C7390,Science Textbook,Books,Europe,Referral,Changed mind
+R0934,O61817,C4463,Headphones,Electronics,Europe,Social Media,Size or fit issue
+R0935,O43782,C5861,Foundation,Beauty,Asia,Organic Search,Unauthorized purchase
+R0936,O43414,C6923,Headphones,Electronics,Europe,Referral,Product no longer needed
+R0937,O21946,C8566,Dress,Apparel,North America,Social Media,Product no longer needed
+R0938,O96316,C3079,Toaster,Home & Kitchen,South America,Email,Size or fit issue
+R0939,O19249,C1442,Science Textbook,Books,North America,Social Media,Product did not match description
+R0940,O45580,C9851,T-shirt,Apparel,North America,Paid Ads,Product did not match description
+R0941,O86792,C2878,Headphones,Electronics,Australia,Referral,Product did not match description
+R0942,O62827,C1674,Yoga Mat,Sports,Europe,Organic Search,Poor product quality
+R0943,O93301,C6308,Toaster,Home & Kitchen,North America,Organic Search,Item arrived late
+R0944,O36410,C2432,Running Shoes,Sports,Europe,Paid Ads,Item defective or damaged
+R0945,O45058,C9787,Jeans,Apparel,South America,Paid Ads,Unauthorized purchase
+R0946,O63230,C9004,Yoga Mat,Sports,Australia,Paid Ads,Product no longer needed
+R0947,O15718,C2909,Biography,Books,South America,Social Media,Product did not match description
+R0948,O48947,C7358,Basketball,Sports,Australia,Email,Wrong item sent
+R0949,O87741,C6277,Cookbook,Books,Europe,Email,Item arrived late
+R0950,O33914,C9581,Cookbook,Books,Asia,Referral,Product no longer needed
+R0951,O93752,C7767,Biography,Books,Australia,Referral,Found better price elsewhere
+R0952,O90548,C5616,Tablet,Electronics,Asia,Email,Product no longer needed
+R0953,O17419,C6420,Microwave,Home & Kitchen,Europe,Email,Found better price elsewhere
+R0954,O85747,C7260,Vacuum Cleaner,Home & Kitchen,Asia,Paid Ads,Product no longer needed
+R0955,O24305,C1816,Cookbook,Books,Australia,Email,Item defective or damaged
+R0956,O22557,C8863,Eyeliner,Beauty,Australia,Email,Poor product quality
+R0957,O52127,C8002,Headphones,Electronics,Australia,Referral,Changed mind
+R0958,O10124,C8559,Vacuum Cleaner,Home & Kitchen,Australia,Email,Size or fit issue
+R0959,O97842,C1806,Bluetooth Speaker,Electronics,South America,Referral,Changed mind
+R0960,O11748,C9543,Sneakers,Apparel,Asia,Paid Ads,Unauthorized purchase
+R0961,O30382,C2420,Face Cream,Beauty,Asia,Social Media,Item arrived late
+R0962,O31465,C3516,T-shirt,Apparel,South America,Social Media,Item defective or damaged
+R0963,O14924,C7075,Vacuum Cleaner,Home & Kitchen,Australia,Paid Ads,Item defective or damaged
+R0964,O32977,C3841,Face Cream,Beauty,Australia,Organic Search,Item defective or damaged
+R0965,O64153,C8229,Microwave,Home & Kitchen,North America,Paid Ads,Unauthorized purchase
+R0966,O75889,C1721,Vacuum Cleaner,Home & Kitchen,Europe,Paid Ads,Product no longer needed
+R0967,O84053,C1036,Face Cream,Beauty,Australia,Social Media,Product did not match description
+R0968,O13085,C8398,Jacket,Apparel,Australia,Referral,Product did not match description
+R0969,O76161,C2114,T-shirt,Apparel,North America,Paid Ads,Item arrived late
+R0970,O23077,C6190,Tennis Racket,Sports,Europe,Referral,Item arrived late
+R0971,O43326,C6682,Blender,Home & Kitchen,North America,Email,Size or fit issue
+R0972,O59527,C7717,Smartphone,Electronics,South America,Organic Search,Size or fit issue
+R0973,O78635,C3110,Cookware Set,Home & Kitchen,Asia,Organic Search,Unauthorized purchase
+R0974,O20941,C9849,Vacuum Cleaner,Home & Kitchen,North America,Email,Unauthorized purchase
+R0975,O82411,C5581,Vacuum Cleaner,Home & Kitchen,Asia,Referral,Changed mind
+R0976,O16942,C5796,Yoga Mat,Sports,Asia,Referral,Poor product quality
+R0977,O13446,C4230,T-shirt,Apparel,South America,Paid Ads,Item arrived late
+R0978,O96323,C3895,Dumbbells,Sports,Asia,Social Media,Changed mind
+R0979,O10615,C5180,Headphones,Electronics,Europe,Referral,Changed mind
+R0980,O69246,C3769,Blender,Home & Kitchen,South America,Organic Search,Item arrived late
+R0981,O20504,C2432,Basketball,Sports,Asia,Email,Item arrived late
+R0982,O52032,C7233,Vacuum Cleaner,Home & Kitchen,Europe,Paid Ads,Product no longer needed
+R0983,O80730,C8684,Eyeliner,Beauty,Australia,Referral,Found better price elsewhere
+R0984,O39160,C4105,Tablet,Electronics,North America,Referral,Product no longer needed
+R0985,O47572,C3429,Running Shoes,Sports,Australia,Organic Search,Poor product quality
+R0986,O83393,C9942,Cookware Set,Home & Kitchen,Australia,Referral,Unauthorized purchase
+R0987,O45697,C9329,Basketball,Sports,Australia,Paid Ads,Item defective or damaged
+R0988,O25087,C3988,Microwave,Home & Kitchen,Australia,Organic Search,Unauthorized purchase
+R0989,O39089,C7759,Face Cream,Beauty,North America,Referral,Size or fit issue
+R0990,O68240,C7129,Cookware Set,Home & Kitchen,Europe,Social Media,Item arrived late
+R0991,O35344,C3793,Cookware Set,Home & Kitchen,South America,Social Media,Changed mind
+R0992,O32523,C2239,Dumbbells,Sports,North America,Paid Ads,Unauthorized purchase
+R0993,O19373,C7137,Dumbbells,Sports,Europe,Social Media,Product no longer needed
+R0994,O45456,C7014,Biography,Books,Europe,Organic Search,Wrong item sent
+R0995,O45254,C9391,Fantasy Fiction,Books,North America,Paid Ads,Product no longer needed
+R0996,O24829,C5407,Vacuum Cleaner,Home & Kitchen,North America,Referral,Poor product quality
+R0997,O10477,C2971,Smartphone,Electronics,Europe,Email,Item defective or damaged
+R0998,O76134,C6871,Biography,Books,Europe,Paid Ads,Changed mind
+R0999,O17313,C9293,Fantasy Fiction,Books,Europe,Social Media,Product did not match description
+R1000,O71257,C2456,Tennis Racket,Sports,North America,Organic Search,Changed mind
